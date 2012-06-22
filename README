@@ -8,8 +8,11 @@ It can be used in two ways:
 		import nagranni
 		nagranni(pmid=19368830)
 
-That's it! If there are any problems, or if the server goes down for some reason, send me an email at ambertk@gmail.com. I invite you to use this in your research, but be sure to cite and read the publication describing the kIGNN algorithm! 
+That's it! If there are any problems, or if the server goes down for some reason, send me an email at ambertk@u0048.com. I invite you to use this in your research, but be sure to cite and read the publication describing the kIGNN algorithm! 
 
 	Ambert KH, Cohen AM. "k-Information Gain Scaled Nearest Neighbors: A Novel 
 	Approach to Classifying Protein-Protein Interactions in Free-Text."
 	IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2012
+
+
+This software is copyrighted by Kyle H. Ambert, Principal Analyst at u+0048 Analytics.
