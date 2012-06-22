@@ -1,6 +1,5 @@
 Hello!
-This script uses a web service hosted by Kyle H. Ambert, at Oregon Health & Science University, to classify documents in terms of their likelihood of containing information related to gene expression and neurons. Named after the Icelandic word for neighbor, my system uses an algorithm called kIGNN (k-Information-Scaled Nearest Neighbor) to arrive at probability estimates based on the content of an article's MEDLINE record or, in some cases, its fulltext (primarily only availble for 
-Neuroscience publications in 2010). It only needs to know the PubMed ID you're interested in!
+This script uses a web service hosted by Kyle H. Ambert, at Oregon Health & Science University, to classify documents in terms of their likelihood of containing information related to gene expression and neurons. Named after the Icelandic word for neighbor, my system uses an algorithm called kIGNN (k-Information-Scaled Nearest Neighbor) to arrive at probability estimates based on the content of an article's MEDLINE record or, in some cases, its fulltext (primarily only availble for  Neuroscience publications in 2010). It only needs to know the PubMed ID you're interested in!
 It can be used in two ways:
 
 	[1] From the command line:  
